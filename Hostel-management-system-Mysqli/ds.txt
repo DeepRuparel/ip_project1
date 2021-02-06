@@ -1,0 +1,17 @@
+<h1><center><b>DOUBLE SEATER</b></h1><center>
+<table width="1045" height="213" border="1">
+  <tbody>
+    <tr>
+      <td width="241" height="35"><center>SEATERS</center></td>
+      <td width="121"><center>First Instalment</center></td>
+      <td width="133"><center>Second instalment</center></td>
+      <td width="522"><center>Total Fees</center></td>
+    </tr>
+<tr>
+      <td height="52"><center>Double Seater</center></td>
+      <td><center>Rs 20,000/-</center></td>
+      <td><center>Rs 40,000/-</center></td>
+      <td><center>Rs 60,000/-</center></td>
+    </tr>
+ </tbody>
+</table>

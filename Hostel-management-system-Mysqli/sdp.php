@@ -1,0 +1,4 @@
+<center><b><font size="+3" color="#340DF8">Student Development Programme - Our quality policy</font></b><br><br></center>
+<font size="+1">
+We, at Shah & Anchor Kutchhi Engineering College, cherish a mission of achieving our goal of imparting state of art technical and management education in the emerging disciplines.We fulfill our commitment through periodic review of academic environment and management system and continual improvement of infrastructure, teaching techniques and faculty skills to keep pace with the latest developments.While doing so, we ensure compliance with the applicable rules, regulation and statutory requirements in force for the self-financed minority education institution.
+</font>
